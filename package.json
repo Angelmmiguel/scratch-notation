@@ -1,0 +1,8 @@
+{
+  "name": "scratch-notation",
+  "version": "1.0.0",
+  "description": "Display scratch techniques as images",
+  "main": "index.js",
+  "private": true,
+  "license": "MIT"
+}
